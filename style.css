@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+/* Τι θα κάνουμε: Ορίζουμε το background και το χρώμα του κειμένου */
+body {
+    background-color: #0a0a0a; /* Σχεδόν μαύρο, για δυναμική αίσθηση */
+    color: #00ff66; /* Ένα φωτεινό πράσινο (Matrix style), για τεχνική αίσθηση */
+    font-family: Arial, sans-serif; /* Καθαρή γραμματοσειρά */
+    margin: 20px; /* Λίγος χώρος γύρω γύρω */
+}
+
+/* Τι θα κάνουμε: Ορίζουμε το στυλ για τον τίτλο (H1) */
+h1 {
+    color: #ffcc00; /* Ένα φωτεινό κίτρινο για τον τίτλο (χρυσό) */
+    text-align: center; /* Ο τίτλος στο κέντρο */
+    border-bottom: 2px solid #ffcc00; /* Μια γραμμή από κάτω για έμφαση */
+    padding-bottom: 10px;
+}
+
+/* Τι θα κάνουμε: Ορίζουμε το στυλ για το footer (πνευματικά δικαιώματα) */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #444;
+}
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Master Top Gun WebD Formula 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+</body>
+</html>
